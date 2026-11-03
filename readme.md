@@ -4,7 +4,7 @@ Application web Django permettant de demander et publier des critiques de livres
 
 ## 1. Prérequis
 
-- Python 3.11+ (adapter à ta version exacte)
+- Python 3.11 ou plus récent
 - pip
 - Git
 
