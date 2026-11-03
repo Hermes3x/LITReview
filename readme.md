@@ -11,8 +11,8 @@ Application web Django permettant de demander et publier des critiques de livres
 ## 2. Installation
 
 ```bash
-git clone <URL_DU_REPO>
-cd 'Projet_9\litrevu'
+git clone https://github.com/Hermes3x/LITReview.git
+cd LITReview/litrevu
 python -m venv env
 source env/bin/activate  # Windows: env\Scripts\activate
 python -m pip install -r requirements.txt
